@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+
+  <assemblyIdentity name="TapDrillDepth" version="1.0.0.1"></assemblyIdentity>
+
+  <clrClass clsid="{be881af3-2a3b-4836-912e-bcc936efc596}" progid="TapDrillDepth.StandardAddInServer" threadingModel="Both" name="TapDrillDepth.TapDrillDepth.StandardAddInServer" runtimeVersion=""></clrClass>
+
+  <file name="TapDrillDepth.dll" hashalg="SHA1"></file>
+
+</assembly>
